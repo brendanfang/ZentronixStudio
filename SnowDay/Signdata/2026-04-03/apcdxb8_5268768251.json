@@ -1,6 +1,12 @@
 [
   {
     "playerName": "APCDXB8",
+    "playerId": 5268768251,
+    "filteredText": "s b",
+    "time": "22:59:12"
+  },
+  {
+    "playerName": "APCDXB8",
     "filteredText": "s b",
     "time": "22:59:12",
     "playerId": 5268768251
@@ -8,12 +14,12 @@
   {
     "playerName": "APCDXB8",
     "playerId": 5268768251,
-    "time": "22:59:12",
+    "time": "22:59:45",
     "filteredText": "s b"
   },
   {
     "playerName": "APCDXB8",
-    "time": "22:59:45",
+    "time": "22:59:46",
     "filteredText": "s b",
     "playerId": 5268768251
   },
@@ -21,12 +27,12 @@
     "playerName": "APCDXB8",
     "playerId": 5268768251,
     "filteredText": "s b",
-    "time": "22:59:46"
+    "time": "22:59:45"
   },
   {
     "playerName": "APCDXB8",
     "filteredText": "s b",
-    "time": "22:59:45",
+    "time": "23:00:02",
     "playerId": 5268768251
   },
   {
@@ -37,8 +43,8 @@
   },
   {
     "playerName": "APCDXB8",
-    "time": "23:00:02",
-    "filteredText": "s b",
+    "time": "23:01:05",
+    "filteredText": "22",
     "playerId": 5268768251
   }
 ]
