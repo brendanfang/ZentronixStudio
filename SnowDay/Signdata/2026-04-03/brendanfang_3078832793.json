@@ -1,26 +1,32 @@
 [
   {
     "playerName": "brendanfang",
-    "playerId": 3078832793,
+    "time": "22:59:16",
     "filteredText": "ces",
-    "time": "22:59:16"
-  },
-  {
-    "playerName": "brendanfang",
-    "filteredText": "ces",
-    "time": "23:02:13",
     "playerId": 3078832793
   },
   {
     "playerName": "brendanfang",
     "playerId": 3078832793,
-    "time": "23:02:42",
-    "filteredText": "你好"
+    "filteredText": "ces",
+    "time": "23:02:13"
   },
   {
     "playerName": "brendanfang",
+    "filteredText": "你好",
+    "time": "23:02:42",
+    "playerId": 3078832793
+  },
+  {
+    "playerName": "brendanfang",
+    "playerId": 3078832793,
     "time": "23:02:50",
-    "filteredText": "测试",
+    "filteredText": "测试"
+  },
+  {
+    "playerName": "brendanfang",
+    "time": "23:03:00",
+    "filteredText": "1",
     "playerId": 3078832793
   }
 ]
