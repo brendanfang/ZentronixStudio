@@ -1,8 +1,14 @@
 [
   {
     "playerName": "brendanfang",
+    "playerId": 3078832793,
     "time": "22:28:51",
-    "filteredText": "testing",
+    "filteredText": "testing"
+  },
+  {
+    "playerName": "brendanfang",
+    "time": "22:29:25",
+    "filteredText": "testing 2",
     "playerId": 3078832793
   }
 ]
