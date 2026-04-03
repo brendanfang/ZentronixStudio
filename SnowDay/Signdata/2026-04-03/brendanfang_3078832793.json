@@ -1,14 +1,20 @@
 [
   {
     "playerName": "brendanfang",
-    "playerId": 3078832793,
+    "filteredText": "ces",
     "time": "22:59:16",
+    "playerId": 3078832793
+  },
+  {
+    "playerName": "brendanfang",
+    "playerId": 3078832793,
+    "time": "23:02:13",
     "filteredText": "ces"
   },
   {
     "playerName": "brendanfang",
-    "time": "23:02:13",
-    "filteredText": "ces",
+    "time": "23:02:42",
+    "filteredText": "你好",
     "playerId": 3078832793
   }
 ]
