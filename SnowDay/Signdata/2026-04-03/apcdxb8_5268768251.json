@@ -1,32 +1,38 @@
 [
   {
     "playerName": "APCDXB8",
+    "filteredText": "s b",
+    "time": "22:59:12",
+    "playerId": 5268768251
+  },
+  {
+    "playerName": "APCDXB8",
     "playerId": 5268768251,
     "time": "22:59:12",
     "filteredText": "s b"
   },
   {
     "playerName": "APCDXB8",
-    "time": "22:59:12",
-    "filteredText": "s b",
-    "playerId": 5268768251
-  },
-  {
-    "playerName": "APCDXB8",
-    "playerId": 5268768251,
-    "filteredText": "s b",
-    "time": "22:59:45"
-  },
-  {
-    "playerName": "APCDXB8",
-    "filteredText": "s b",
-    "time": "22:59:46",
-    "playerId": 5268768251
-  },
-  {
-    "playerName": "APCDXB8",
-    "playerId": 5268768251,
     "time": "22:59:45",
+    "filteredText": "s b",
+    "playerId": 5268768251
+  },
+  {
+    "playerName": "APCDXB8",
+    "playerId": 5268768251,
+    "filteredText": "s b",
+    "time": "22:59:46"
+  },
+  {
+    "playerName": "APCDXB8",
+    "filteredText": "s b",
+    "time": "22:59:45",
+    "playerId": 5268768251
+  },
+  {
+    "playerName": "APCDXB8",
+    "playerId": 5268768251,
+    "time": "23:00:02",
     "filteredText": "s b"
   },
   {
