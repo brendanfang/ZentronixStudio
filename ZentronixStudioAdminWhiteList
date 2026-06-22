@@ -1,19 +1,19 @@
 {
-  "3078832793": { "Role": "Owner", "Level": 9, "Note": "Brendan145114" },
+  "3078832793": { "Role": "Owner", "Level": 10, "Note": "Brendan145114" },
   "4030071197": { "Role": "Owner", "Level": 10, "Note": "Ihkdjvd" },
-  "5268768251": { "Role": "Owner", "Level": 7, "Note": "郭立炜" },
-  "3372476462": { "Role": "Owner", "Level": 10, "Note": "兰兰小狼" },
-  "5479327579": { "Role": "Owner", "Level": 10, "Note": "小岚" },
-  "5526140450": { "Role": "Owner", "Level": 10, "Note": "春嬌" },
-  "5447430358": { "Role": "Owner", "Level": 10, "Note": "老嗨" },
+  "5268768251": { "Role": "Owner", "Level": 9, "Note": "郭立炜" },
+  "3372476462": { "Role": "Admin", "Level": 9, "Note": "兰兰小狼" },
+  "5479327579": { "Role": "Admin", "Level": 9, "Note": "小岚" },
+  "5526140450": { "Role": "Admin", "Level": 9, "Note": "春嬌" },
+  "5447430358": { "Role": "Admin", "Level": 9, "Note": "老嗨" },
   "2783165912": { "Role": "VIP", "Level": 3, "Note": "股东" },
   "4511047515": { "Role": "Tester", "Level": 6, "Note": "当下" },
   "3940348855": { "Role": "Tester", "Level": 6, "Note": "焦糖" },
   "9289662416": { "Role": "Tester", "Level": 6, "Note": "劳伯" },
   "3891023548": { "Role": "Tester", "Level": 6, "Note": "Brendan小号" },
-  "4944681080": { "Role": "Owner", "Level": 9, "Note": "管理防火" },
+  "4944681080": { "Role": "Admin", "Level": 9, "Note": "管理防火" },
   "1781841973": { "Role": "Tester", "Level": 6, "Note": "同学Jamie" },
   "3151233454": { "Role": "Tester", "Level": 6, "Note": "同学Flynn" },
   "6099186621": { "Role": "Tester", "Level": 6, "Note": "宅龙" },
-  "10739346110": { "Role": "Tester", "Level": 10, "Note": "安全测试账号" }
+  "10739346110": { "Role": "Owner", "Level": 10, "Note": "安全测试账号" }
 }
